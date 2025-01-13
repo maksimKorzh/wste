@@ -20,7 +20,7 @@ A bare minimum terminal based text editor for Linux
 
     e e.py      -  opens own source code
     e test.txt  -  if file "test.txt" does not exist, filename is set
-    e e.py           -  opens empty file "o.txt"
+    e           -  opens empty file "o.txt"
 
 # Demonstration on YouTube
 Coming soon...
