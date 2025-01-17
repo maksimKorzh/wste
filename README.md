@@ -23,4 +23,4 @@ A bare minimum terminal based text editor for Linux
     e           -  opens empty file "o.txt"
 
 # Demonstration on YouTube
-Coming soon...
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FVpl8cGJO-g/0.jpg)](https://www.youtube.com/watch?v=FVpl8cGJO-g)
